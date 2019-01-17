@@ -1,4 +1,4 @@
-#my jupyter notebooks
+# my jupyter notebooks
 
 logit.ipynb
 
