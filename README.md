@@ -1,4 +1,4 @@
-# ipynb
+# logit.ipynb
 
 Website intrusion detection using session data.
 
