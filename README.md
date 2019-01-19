@@ -11,7 +11,7 @@ v1. logit baseline
 1.improve baseline score
 2.EDA.
 
-##linear_regression.ipynb
+## linear_regression.ipynb
 
 Implemented linear regression from scratch and compared with scikit learn's linreg.
 
